@@ -19,7 +19,8 @@ Studying bachelor degree, in ZUST (Zamzam University of Science and Technology) 
 <p align="center">
 <a href="https://twitter.com/nur_omar1" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="nur_omar1" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nur252/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="nur252" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/nour_farah57/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="nour_farah57" height="50" width="50" /></a>
+<a href="https://www.instagram.com/nour_farah57/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="nour_farah57" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/nuur.faarax.121" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook.png" alt="nuur.faarax.121" height="50" width="50" /></a>
 </p>
 
 <hr>
