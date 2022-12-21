@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Nur-farah
-<p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nur-farah&theme=blueberry_duo&border_radius=7.2)](https://git.io/streak-stats)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nur-farah?cardType=github&theme=blueberry)](https://git.io/awesome-stats-card)
+
