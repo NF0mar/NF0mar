@@ -5,7 +5,7 @@
 
 <h3 align="center">:mortar_board: Graduating in 2025 :mortar_board:</h3>
 <p align="center">
-Studying bachelor degree, in ZUST (Zamzam University of science and Technology) with the intend to pursue a Computer Science degree after!</p>
+Studying bachelor degree, in ZUST (Zamzam University of Science and Technology) with the intend to pursue a Computer Science degree after!</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nur-farah&theme=blueberry_duo&border_radius=7.2)](https://git.io/streak-stats)
 
