@@ -4,3 +4,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nur-farah?cardType=github&theme=blueberry)](https://git.io/awesome-stats-card)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
+
+
