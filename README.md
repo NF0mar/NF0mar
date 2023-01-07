@@ -9,9 +9,9 @@ Studying bachelor degree, in ZUST (Zamzam University of Science and Technology) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nur-farah&theme=blueberry_duo&border_radius=7.2)](https://git.io/streak-stats)
 
-<!-- ![nur's github stats](https://github-readme-stats.vercel.app/api?username=nur-farah&title_color=66b6d2&icon_color=7cc0d8&text_color=2187ab&bg_color=00000000&show_icons=true&) -->
+![nur's github stats](https://github-readme-stats.vercel.app/api?username=nur-farah&title_color=66b6d2&icon_color=7cc0d8&text_color=2187ab&bg_color=00000000&show_icons=true&) 
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nur-farah&theme=react&text_color=66b6d2&bg_color=00000000&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nur-farah&theme=react&text_color=66b6d2&bg_color=00000000&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 <hr>
 
@@ -26,4 +26,3 @@ Studying bachelor degree, in ZUST (Zamzam University of Science and Technology) 
 <hr>
 
 ![snake gif](https://github.com/Nur-farah/Nur-farah/blob/output/github-contribution-grid-snake.svg)
-
