@@ -25,3 +25,4 @@ Studying bachelor degree, in ZUST (Zamzam University of Science and Technology) 
 
 <hr>
 
+![snake gif](https://github.com/nur-farah/nur-farah/blob/output/github-contribution-grid-snake.svg)
