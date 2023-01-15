@@ -8,11 +8,10 @@
 Studying bachelor degree, in ZUST (Zamzam University of Science and Technology) with the intend to pursue a Computer Science degree after! </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nur-farah&theme=blueberry_duo&border_radius=7.2)](https://git.io/streak-stats)
-
 ![nur's github stats](https://github-readme-stats.vercel.app/api?username=nur-farah&title_color=66b6d2&icon_color=7cc0d8&text_color=2187ab&bg_color=00000000&show_icons=true&) 
-
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nur-farah&theme=react&text_color=66b6d2&bg_color=00000000&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
+<div align="center">
+ <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nur-farah&theme=react&text_color=66b6d2&bg_color=00000000&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> 
+</div>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
