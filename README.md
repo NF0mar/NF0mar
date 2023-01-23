@@ -26,4 +26,9 @@ Studying bachelor degree, in ZUST (Zamzam University of Science and Technology) 
 
 <hr>
 
+# 📈 Contribution Graph 
+<br />
+
+[![Nur's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nur-farah&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/Nur-farah)
+
 ![th2i72qu0rnt6hr9zn43](https://user-images.githubusercontent.com/106109563/211138760-6ae7db45-a90a-4403-b45b-b0fcffda183e.jpeg)
