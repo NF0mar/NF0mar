@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"alt="Waving hand animated gif"height="45"width="45" />, I'm Nur Farah</h1>
-
 <h3 align="center">:mortar_board: Graduating in 2025 :mortar_board:</h3>
 <p align="center">
 Studying bachelor degree, in ZUST (Zamzam University of Science and Technology) with the intend to pursue a Computer Science degree after! </p>
