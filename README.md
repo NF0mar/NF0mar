@@ -3,6 +3,7 @@
 <p align="center">
 Studying bachelor degree, in ZUST (Zamzam University of Science and Technology) with the intend to pursue a Computer Science degree after! </p>
 
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=NF0mar&&style=flat-square)  
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NF0mar&theme=blueberry_duo&border_radius=7.2)](https://git.io/streak-stats)
