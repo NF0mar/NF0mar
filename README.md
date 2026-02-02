@@ -118,7 +118,7 @@
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;" align="center">
   <!-- Left column -->
-  <div style="display: flex; flex-direction: column; gap: 12px;">
+  <!-- <div style="display: flex; flex-direction: column; gap: 12px;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=nf0mar&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"
       height="150"
@@ -130,7 +130,7 @@
       alt="Top languages"
     />
     
-  </div>
+  </div> -->
 
   <!-- Right column -->
   <div align="center">
